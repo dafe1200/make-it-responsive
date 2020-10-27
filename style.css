@@ -81,6 +81,12 @@ footer {
   color: black;
   padding: 10px;
 }
+.small-text2 {
+  font-family: helvetica;
+  font-size: 20px;
+  color: black;
+  padding: 10px;
+}
 
 @media screen and (max-width: 800px){
   li {
