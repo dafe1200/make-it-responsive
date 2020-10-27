@@ -48,7 +48,36 @@ footer {
   font-size: 16px;
 }
 
+/* flex-container index */
 
+.flex-container {
+  display: flex;
+  flex-direction: row;
+}
+.flex-left {
+  flex: 50%;
+  margin: 20px;
+}
+.flex-right {
+  flex: 50%;
+  margin: 20px;
+}
+
+/*    TEKST TYPER  */
+
+.big-text {
+  font-family: helvetica;
+  font-size: 70px;
+  font-style: bold;
+  color: black;
+  padding: 10px;
+}
+.small-text {
+  font-family: helvetica;
+  font-size: 40px;
+  color: black;
+  padding: 10px;
+}
 
 @media screen and (max-width: 800px){
   li {
@@ -57,7 +86,10 @@ footer {
   .button {
     margin: 0;
   }
-
+  .flex-container {
+    flex-direction: column;
+  }
+}
 
 
 }
