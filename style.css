@@ -48,6 +48,10 @@ footer {
   background-color: #1761a0;
   font-size: 16px;
 }
+img {
+  max-width: 100%;
+  height: auto;
+}
 /* flex-container index */
 
 .flex-container {
