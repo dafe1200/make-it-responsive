@@ -59,10 +59,12 @@ img {
 .flex-left {
   flex: 50%;
   margin: 20px;
+  text-align: center;
 }
 .flex-right {
   flex: 50%;
   margin: 20px;
+  text-align: center;
 }
 
 /*    TEKST TYPER  */
