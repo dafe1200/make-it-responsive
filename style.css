@@ -35,6 +35,10 @@ li a:hover {
   padding: 10px;
 }
 
+main {
+  margin-bottom: 20px;
+}
+
 footer {
   padding: 15px;
   margin-top: 20px;
@@ -48,6 +52,7 @@ footer {
   background-color: #1761a0;
   font-size: 16px;
 }
+
 img {
   max-width: 100%;
   height: auto;
