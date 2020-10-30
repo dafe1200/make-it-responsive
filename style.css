@@ -102,6 +102,18 @@ img {
     flex-direction: column;
   }
 }
+.flex-staff {
+  display: flex;
+  margin: 20px;
+  margin-left: 60px;
+  text-align: center;
+  flex-direction: row;
+}
+.flex-staff > div {
+
+  margin: 10px;
+  
+}
 
 
 }
