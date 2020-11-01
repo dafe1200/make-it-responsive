@@ -130,15 +130,15 @@ img {
 }
 #name{
     font-size: 15pt;
-    width: 400px;  
+    width: 75%;  
 }
 #mail{
     font-size: 15pt;
-    width: 400px;
+    width: 75%;
 }
 textarea{
     height:200px;
-    width: 400px ;
+    width: 75%;
     font-size:12pt;
     resize: none;
 }
