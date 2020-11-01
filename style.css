@@ -130,13 +130,17 @@ img {
 }
 #name{
     font-size: 15pt;
+    width: 400px;  
 }
 #mail{
     font-size: 15pt;
+    width: 400px;
 }
-#message{
-    height: 200px;
-    font-size:10pt;
+textarea{
+    height:200px;
+    width: 400px ;
+    font-size:12pt;
+    resize: none;
 }
 .submitBtn{
     background-color: #1761A0;
