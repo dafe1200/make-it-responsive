@@ -125,6 +125,30 @@ img {
   margin: 10px;
   
 }
-
-
+#contactDiv{
+    margin-left: 140px;
+}
+#name{
+    font-size: 15pt;
+}
+#mail{
+    font-size: 15pt;
+}
+#message{
+    height: 200px;
+    font-size:10pt;
+}
+.submitBtn{
+    background-color: #1761A0;
+    color: white;
+    padding: 5px 20px;
+    font-size: 15pt;
+    cursor: pointer;
+}
+.submitBtn:hover{
+    background-color: #5AB1FD;
+    transition: 0.2s;
+}
+.submitBtn:active{
+    background-color: #1761A0;
 }
