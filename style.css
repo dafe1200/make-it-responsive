@@ -165,7 +165,7 @@ textarea{
 }
 #schedule{
     margin-right:25%
-    border-collapse: collapse;
+    border: collapse;
 }
 #schedule td{
     border: 2px solid black;
