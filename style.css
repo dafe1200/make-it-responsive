@@ -158,13 +158,13 @@ textarea{
     flex-direction: column;
   }
   textarea {
-    max-width: 100%;
+    width: 100%;
   }
   #name {
-    max-width: 100%;
+    width: 100%;
   }
   #mail {
-    max-width: 100%;
+    width: 100%;
   }
   
 }
