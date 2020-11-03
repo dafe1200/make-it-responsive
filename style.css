@@ -110,7 +110,7 @@ textarea{
 .submitBtn{
     background-color: #1761A0;
     color: white;
-    padding: 50px;
+    padding: 10px;
     cursor: pointer;
 }
 .submitBtn:hover{
