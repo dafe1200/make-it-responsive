@@ -38,21 +38,6 @@ li a:hover {
 main {
   margin-bottom: 50px;
 }
-/*    KOMMENTERT UT FOOTER
-footer {
-  padding: 15px;
-  margin-top: 20px;
-  text-align: center;
-  position: relative;
-  left: 0;
-  bottom: 0;
-  width: 100%;
-  font-family: tahoma, sans-serif;
-  color: white;
-  background-color: #1761a0;
-  font-size: 16px;
-}
-/*
 
 img {
   max-width: 100%;
@@ -96,6 +81,11 @@ img {
   color: black;
   padding: 10px;
 }
+.staff {
+  float: left;
+  padding: 20px;
+  text-align: center;
+}
 
 @media screen and (max-width: 800px){
   li {
@@ -112,19 +102,7 @@ img {
     flex-direction: column;
   }
 }
-.flex-staff {
-  display: flex;
-  flex-wrap: wrap;
-  margin: 20px;
-  margin-left: 60px;
-  text-align: center;
-  flex-direction: row;
-}
-.flex-staff > div {
 
-  margin: 10px;
-  
-}
 #contactDiv{
     margin: auto;
     width: 50%;
