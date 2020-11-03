@@ -157,5 +157,14 @@ textarea{
   .flex-container {
     flex-direction: column;
   }
-
+  textarea {
+    max-width: 100%;
+  }
+  #name {
+    max-width: 100%;
+  }
+  #mail {
+    max-width: 100%;
+  }
+  
 }
